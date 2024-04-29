@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "health-chatbot-420906",
+  "private_key_id": "ce340fafb9305cea03d6dacd4b44cfaa21b24d68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6KtvWYnClmVqx\ndztlmwwKYjYnD57VCPCVgA4CnJBq7D6SwniHHrKoYMjyZ6VRvwbLY9YD9N2K+qBs\nrDyfqD3K1Rw/v2uFHJRvBIvowjKkh/PjLVKiNB4ruGxFmKONuLsmJxTkgbI2WTNv\nO5jiqoMUVq+nfltpLrpHb90Kn9smd/0tiW6qf1GR9GgV85wxad+lenqZEiEWyI4b\nEWVo2RfUNLrBhbQs4O5dO5gb5gY0qBFOe1YqlofdUpYF9hdq8wdmNg1uqtaNH76G\nMDiPiBCw7LOxkrlU4bFWoGtYhygvgySWUnX865CwXnp04P/aOn8bqh2pg5ZqoBTU\nPsPZ6k9nAgMBAAECggEACGvM4u80AkGkGRf4H1n6mvOjWHP77s4HN/QBbjvPyo5i\nLDhQxGfuk/BA1ro6f66g641aDnbCmLlKjW/jFCPDm8u1CesqPWy0CCuP+pjiOpAN\nx65yqPSrkrW2bBWB/HSpPooRB18YhR3W1ka/XS1yXXaoXm64StM6yOV1/beKbbx2\n1lh4oQND8pYijmO2rHHDo4AVng/xoJZDeVxuVXnu7KpeaNZM1qd4BSY6eZy5+hlb\nulfxLuQHeREJNWcbiThPkF7qtgU+mvWtHZ4Y0X43xGQ2lTjN9FJsy7Y1FZLLi8Kx\nWpXI0MQ8Bt8oIDV2TrgWC5ZkT53napRGwCxcc700NQKBgQD3uHHC1nAo+pji5HE/\ny4pukqbE8+DuZmcxs9hneEZYp2ic7ekrVkAjjcA/dZqhf4kuwyV+qOVaYgxUKBAF\nhawbidcGMSQKoTyU3ZQLY1p1bJ3nNk3GDmuB02QSHPN6uOXvBF10YA4N46BMSWd1\neegRIlycWEuvBmvL8GIHRuyX5QKBgQDAY8BpVhN60G5gZ2otD8g0ePdHGRNYjZau\nFaAKQNxJa8+xmxLpj2bVNMFIg9JFw6R9yyMbGA+0iGZQgmDJMw2Zoo7crDHP61hM\nC7o7zVBXjg6NfbJu99h9pvyMuCeX/8/YwepZmrO7nMG4m9vEpn6p7rrL4lzneq7h\ncN7iebf9WwKBgEHsqxHAAa9WKZPQWbcxktCkZI9rm8O2KuZWR1QZ9RaozrVctz3a\nQU107uG0iYdLKpXwRy0zA36PM1q+Iq1lioz1nOy/7SiLClVPtpNlSHCRjGA42m/H\n7KJrQGl1nPJe/Iokbj6HRZY6qrFCo67m13Sf4WeWM+YLXmqyuVPYcyRlAoGACF3O\nJkaJ/lNGGYclxOPkzvNbvYnHn5g4r0VdelSrv72igJS/08xaqnbq2N5yrHn/k0Dc\nO/dl53HvER06XEWOF9pL4CjU2bfgVR5FcQhSsBwLYffPZKf+kChM30m63w9O2JxG\nNrNVkZkVi5OrkPe0lms9UFR9uctKA5/G8Y5dg/UCgYEA8hCS9zQZIFRcVNUM1h+C\n2oUwPcQ9dNgNE/vLAGqANYENLz7+1kF1q5rOgFswELkia6hLe1vG/dupIMNGmKcP\nb5oc2jiOSE7OioFQFKr1zGJtIH8WJ6DdEjwn0g9sxy+GqMTg63AYBStp1x81pWy0\nUV85+/9izoMFBu/FaWVw218=\n-----END PRIVATE KEY-----\n",
+  "client_email": "quickhealth-medbot@health-chatbot-420906.iam.gserviceaccount.com",
+  "client_id": "102878662324984039733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quickhealth-medbot%40health-chatbot-420906.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

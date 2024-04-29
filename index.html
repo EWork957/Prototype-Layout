@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Bot</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="tiledBackground"></div>
+    <div class="container">
+        <!--IPAD-->
+        <div class="ipad-mini">
+            <!--HEADER-->
+            <div class="header">
+                <h1>QUICK HEALTH</h1>
+                <hr class="separator"> 
+            </div>
+            <!--FOOTER-->
+            <div class="footer">
+                <p>Email: info@quickhealth.com</p>
+                <p>Phone: +1 (123) 456-7890</p>
+            </div>
+        </div>
+        <!--BUTTON CLASS-->
+            <div class="BurnsCutsButtons">
+                <!--BURNS NAV-->
+                <div id="BmyNav" class="Boverlay">
+                    <a href="javascript:void(0)" class="Bclosebtn" onclick="BcloseNav()">&times;</a>
+                    <div class="Boverlay-content">
+                      <a class="BNavTitle">WHAT CAN YOU ASK</a>
+                      <a class="BNavTitle"> </a>
+                      <a class="BNavTitle"> </a>
+                      <a class="BNavTitle"> </a>
+                      <a class="BNavInfo">"How do I treat a major/minor burn?"</a>
+                      <a class="BNavInfo">"How to I treat a burn from hot oil?"</a>
+                      <a class="BNavInfo">"I burned my arm on the stove. What should I do?"</a>
+                      <a class="BNavInfo">"I accidentally touched a hot pan and burned my hand. What should I do?"</a>
+                    </div>
+                    <button id="aiButtonBurns" class="centered-button">SPEAK WITH AI</button>
+                    </div>
+                  </div>
+                <!--CUTS NAV-->
+                  <div id="CmyNav" class="Coverlay">
+                    <a href="javascript:void(0)" class="Cclosebtn" onclick="CcloseNav()">&times;</a>
+                    <div class="Coverlay-content">
+                        <a class="BNavTitle">WHAT CAN YOU ASK</a>
+                        <a class="BNavTitle"> </a>
+                        <a class="BNavTitle"> </a>
+                        <a class="BNavTitle"> </a>
+                      <a class="BNavInfo">"I got a cut on my finger. How do I treat it?"</a>
+                      <a class="BNavInfo">"What's the best way to stop bleeding from a cut?"</a>
+                      <a class="BNavInfo">"How do I treat a deep cut on my hand?"</a>
+                      <a class="BNavInfo">"What should I do if I cut myself with a knife?"</a>
+                    </div>
+                    <button id="aiButtonCuts" class="centered-button">SPEAK WITH AI</button>
+                    </div>
+                  </div>
+                  <!--BUTTONS-->
+                  <div class="button-container">
+                    <button class="burns-button" onclick="BopenNav()"onclick="toggleShadow()">
+                        BURNS
+                    </button>
+                    <button class="cuts-button" onclick="CopenNav()"onclick="toggleShadow()">
+                        CUTS
+                    </button>
+                </div>
+            </div>
+            <!--AI BUTTON-->
+            <button id="aiButton" class="centered-button">Chat</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
